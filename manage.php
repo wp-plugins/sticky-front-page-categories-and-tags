@@ -38,3 +38,5 @@ if($_POST)
 <br>
 <input type="submit" value="Save">
 </form>
+<br /> <br /> <br />
+<div style="text-align:center; font-weight:bold#">This plugin was brought to you by Digitalquill, <a href="http://www.digitalquill.co.uk/wordpressplugins/">please click here see our other plugins</a></div>
