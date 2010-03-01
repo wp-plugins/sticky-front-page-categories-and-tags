@@ -3,7 +3,7 @@ Contributors: digitalquill
 Donate link:http://www.digitalquill.co.uk/wordpressplugins/
 Tags: categories, tags, frontpage, sticky
 Requires at least: 2.8.4
-Tested up to: 2.8.6
+Tested up to: 2.9.2
 Stable tag: trunk
 
 Allows you to choose what posts to display on the frontpage of your blog, you can filter these by category(s) or tag(s).
